@@ -71,14 +71,14 @@
                                 <exclude reference="tWi-eF-8Of"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="OiS-jh-BuB"/>
-                                <exclude reference="Rkd-SB-IQ9"/>
+                                <exclude reference="kG1-h6-vQz"/>
                                 <exclude reference="et5-47-3G4"/>
                                 <exclude reference="ykH-RD-xBD"/>
+                                <exclude reference="r7p-QY-SMH"/>
+                                <exclude reference="OiS-jh-BuB"/>
+                                <exclude reference="Rkd-SB-IQ9"/>
                                 <exclude reference="8jS-zA-bfa"/>
                                 <exclude reference="RL6-iC-npH"/>
-                                <exclude reference="r7p-QY-SMH"/>
-                                <exclude reference="kG1-h6-vQz"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -89,14 +89,14 @@
                                 <include reference="tWi-eF-8Of"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="OiS-jh-BuB"/>
-                                <include reference="Rkd-SB-IQ9"/>
+                                <include reference="kG1-h6-vQz"/>
                                 <include reference="et5-47-3G4"/>
                                 <include reference="ykH-RD-xBD"/>
+                                <include reference="r7p-QY-SMH"/>
+                                <include reference="OiS-jh-BuB"/>
+                                <include reference="Rkd-SB-IQ9"/>
                                 <include reference="8jS-zA-bfa"/>
                                 <include reference="RL6-iC-npH"/>
-                                <include reference="r7p-QY-SMH"/>
-                                <include reference="kG1-h6-vQz"/>
                             </mask>
                         </variation>
                     </view>
@@ -217,20 +217,20 @@
                                 <exclude reference="9Y4-IM-tLh"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="QUa-Ia-nOj"/>
-                                <exclude reference="YhD-3k-32z"/>
-                                <exclude reference="HHQ-f2-g2k"/>
-                                <exclude reference="n1S-BD-mEU"/>
-                                <exclude reference="PgO-Qo-O8k"/>
-                                <exclude reference="xVR-fJ-YdX"/>
-                                <exclude reference="SSa-Ng-n7O"/>
-                                <exclude reference="yyR-mD-B2I"/>
-                                <exclude reference="Dtg-sf-GOT"/>
-                                <exclude reference="sYt-0m-3ZA"/>
+                                <exclude reference="9wY-Ur-7j5"/>
+                                <exclude reference="ORj-8a-6Ol"/>
                                 <exclude reference="U05-pc-5Rd"/>
                                 <exclude reference="uJv-TJ-Vzw"/>
-                                <exclude reference="ORj-8a-6Ol"/>
-                                <exclude reference="9wY-Ur-7j5"/>
+                                <exclude reference="Dtg-sf-GOT"/>
+                                <exclude reference="sYt-0m-3ZA"/>
+                                <exclude reference="SSa-Ng-n7O"/>
+                                <exclude reference="yyR-mD-B2I"/>
+                                <exclude reference="PgO-Qo-O8k"/>
+                                <exclude reference="xVR-fJ-YdX"/>
+                                <exclude reference="HHQ-f2-g2k"/>
+                                <exclude reference="n1S-BD-mEU"/>
+                                <exclude reference="QUa-Ia-nOj"/>
+                                <exclude reference="YhD-3k-32z"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -244,20 +244,20 @@
                                 <include reference="9Y4-IM-tLh"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="QUa-Ia-nOj"/>
-                                <include reference="YhD-3k-32z"/>
-                                <include reference="HHQ-f2-g2k"/>
-                                <include reference="n1S-BD-mEU"/>
-                                <include reference="PgO-Qo-O8k"/>
-                                <include reference="xVR-fJ-YdX"/>
-                                <include reference="SSa-Ng-n7O"/>
-                                <include reference="yyR-mD-B2I"/>
-                                <include reference="Dtg-sf-GOT"/>
-                                <include reference="sYt-0m-3ZA"/>
+                                <include reference="9wY-Ur-7j5"/>
+                                <include reference="ORj-8a-6Ol"/>
                                 <include reference="U05-pc-5Rd"/>
                                 <include reference="uJv-TJ-Vzw"/>
-                                <include reference="ORj-8a-6Ol"/>
-                                <include reference="9wY-Ur-7j5"/>
+                                <include reference="Dtg-sf-GOT"/>
+                                <include reference="sYt-0m-3ZA"/>
+                                <include reference="SSa-Ng-n7O"/>
+                                <include reference="yyR-mD-B2I"/>
+                                <include reference="PgO-Qo-O8k"/>
+                                <include reference="xVR-fJ-YdX"/>
+                                <include reference="HHQ-f2-g2k"/>
+                                <include reference="n1S-BD-mEU"/>
+                                <include reference="QUa-Ia-nOj"/>
+                                <include reference="YhD-3k-32z"/>
                             </mask>
                         </variation>
                     </view>
